@@ -1,0 +1,17 @@
+/Users/baktybayevatomiris/RiderProjects/Sample1/Sample1/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/baktybayevatomiris/RiderProjects/Sample1/Sample1/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/baktybayevatomiris/RiderProjects/Sample1/Sample1/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/baktybayevatomiris/RiderProjects/Sample1/Sample1/bin/Debug/netcoreapp3.1/Sample1.deps.json
+/Users/baktybayevatomiris/RiderProjects/Sample1/Sample1/bin/Debug/netcoreapp3.1/Sample1.runtimeconfig.json
+/Users/baktybayevatomiris/RiderProjects/Sample1/Sample1/bin/Debug/netcoreapp3.1/Sample1.runtimeconfig.dev.json
+/Users/baktybayevatomiris/RiderProjects/Sample1/Sample1/bin/Debug/netcoreapp3.1/Sample1.dll
+/Users/baktybayevatomiris/RiderProjects/Sample1/Sample1/bin/Debug/netcoreapp3.1/Sample1.pdb
+/Users/baktybayevatomiris/RiderProjects/Sample1/Sample1/obj/Debug/netcoreapp3.1/Sample1.csprojAssemblyReference.cache
+/Users/baktybayevatomiris/RiderProjects/Sample1/Sample1/obj/Debug/netcoreapp3.1/Sample1.MvcApplicationPartsAssemblyInfo.cache
+/Users/baktybayevatomiris/RiderProjects/Sample1/Sample1/obj/Debug/netcoreapp3.1/Sample1.AssemblyInfoInputs.cache
+/Users/baktybayevatomiris/RiderProjects/Sample1/Sample1/obj/Debug/netcoreapp3.1/Sample1.AssemblyInfo.cs
+/Users/baktybayevatomiris/RiderProjects/Sample1/Sample1/obj/Debug/netcoreapp3.1/Sample1.RazorTargetAssemblyInfo.cache
+/Users/baktybayevatomiris/RiderProjects/Sample1/Sample1/obj/Debug/netcoreapp3.1/staticwebassets/Sample1.StaticWebAssets.Manifest.cache
+/Users/baktybayevatomiris/RiderProjects/Sample1/Sample1/obj/Debug/netcoreapp3.1/staticwebassets/Sample1.StaticWebAssets.xml
+/Users/baktybayevatomiris/RiderProjects/Sample1/Sample1/obj/Debug/netcoreapp3.1/Sample1.dll
+/Users/baktybayevatomiris/RiderProjects/Sample1/Sample1/obj/Debug/netcoreapp3.1/Sample1.pdb
