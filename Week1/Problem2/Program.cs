@@ -13,21 +13,20 @@ namespace Problem2
     {
         public class Solution {
       
-            string defangIPaddr(string address) {
-                for (int i = 0; i < address.Length; i++)
-                {
-                    if (address[i] == '.')
-                    {
-                        address[i] = '[.]';
-                    }
-                }
+            public string defangIPaddr(string address)
+            { 
+                address = address.Replace(".", "[.]");
+                
+
+                return address;
             }
         };
         
         public static void Main(string[] args)
         {
             Solution s1 = new Solution();
-            string[] ip = Console.ReadLine().Split();
+            string ip = Console.ReadLine();
+            Console.WriteLine(s1.defangIPaddr(ip));
             
 
         }
