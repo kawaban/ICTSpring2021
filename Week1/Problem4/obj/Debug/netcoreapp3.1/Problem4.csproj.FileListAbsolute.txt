@@ -1,0 +1,4 @@
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem4/obj/Debug/netcoreapp3.1/Problem4.csprojAssemblyReference.cache
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem4/obj/Debug/netcoreapp3.1/Problem4.MvcApplicationPartsAssemblyInfo.cache
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem4/obj/Debug/netcoreapp3.1/Problem4.AssemblyInfoInputs.cache
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem4/obj/Debug/netcoreapp3.1/Problem4.AssemblyInfo.cs

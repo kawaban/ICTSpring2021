@@ -1,0 +1,17 @@
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem3/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem3/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem3/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem3/bin/Debug/netcoreapp3.1/Problem3.deps.json
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem3/bin/Debug/netcoreapp3.1/Problem3.runtimeconfig.json
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem3/bin/Debug/netcoreapp3.1/Problem3.runtimeconfig.dev.json
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem3/bin/Debug/netcoreapp3.1/Problem3.dll
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem3/bin/Debug/netcoreapp3.1/Problem3.pdb
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem3/obj/Debug/netcoreapp3.1/Problem3.csprojAssemblyReference.cache
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem3/obj/Debug/netcoreapp3.1/Problem3.MvcApplicationPartsAssemblyInfo.cache
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem3/obj/Debug/netcoreapp3.1/Problem3.AssemblyInfoInputs.cache
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem3/obj/Debug/netcoreapp3.1/Problem3.AssemblyInfo.cs
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem3/obj/Debug/netcoreapp3.1/Problem3.RazorTargetAssemblyInfo.cache
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem3/obj/Debug/netcoreapp3.1/staticwebassets/Problem3.StaticWebAssets.Manifest.cache
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem3/obj/Debug/netcoreapp3.1/staticwebassets/Problem3.StaticWebAssets.xml
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem3/obj/Debug/netcoreapp3.1/Problem3.dll
+/Users/baktybayevatomiris/RiderProjects/Week1/Problem3/obj/Debug/netcoreapp3.1/Problem3.pdb
