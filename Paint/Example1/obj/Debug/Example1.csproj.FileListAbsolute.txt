@@ -1,0 +1,10 @@
+C:\Users\админ\source\repos\Paint\Example1\bin\Debug\Example1.exe.config
+C:\Users\админ\source\repos\Paint\Example1\bin\Debug\Example1.exe
+C:\Users\админ\source\repos\Paint\Example1\bin\Debug\Example1.pdb
+C:\Users\админ\source\repos\Paint\Example1\obj\Debug\Example1.csprojAssemblyReference.cache
+C:\Users\админ\source\repos\Paint\Example1\obj\Debug\Example1.Form1.resources
+C:\Users\админ\source\repos\Paint\Example1\obj\Debug\Example1.Properties.Resources.resources
+C:\Users\админ\source\repos\Paint\Example1\obj\Debug\Example1.csproj.GenerateResource.cache
+C:\Users\админ\source\repos\Paint\Example1\obj\Debug\Example1.csproj.CoreCompileInputs.cache
+C:\Users\админ\source\repos\Paint\Example1\obj\Debug\Example1.exe
+C:\Users\админ\source\repos\Paint\Example1\obj\Debug\Example1.pdb
